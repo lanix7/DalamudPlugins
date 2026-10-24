@@ -29,34 +29,3 @@
     "LoadPriority": 0,
     "IconUrl": ""
   },
-  {
-    "Author": "lanix",
-    "Name": "多玛方城战",
-    "Punchline": "本地 Mortal 神经网络驱动的多玛方城战自动打牌",
-    "Description": "读取多玛方城战牌桌状态，交由本地 Mortal 神经网络决策，自动打牌与立直。",
-    "InternalName": "Duomafangchengzhan",
-    "AssemblyVersion": "1.0.0.0",
-    "TestingAssemblyVersion": null,
-    "RepoUrl": "https://github.com/lanix7/DalamudPlugins",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 15,
-    "Tags": [
-      "Mahjong",
-      "Doman Mahjong",
-      "Mortal",
-      "多玛方城战"
-    ],
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "DownloadCount": 0,
-    "LastUpdate": 1792728856,
-    "DownloadLinkInstall": "https://github.com/lanix7/DalamudPlugins/releases/download/v1.0.0/Duomafangchengzhan.zip",
-    "DownloadLinkUpdate": "https://github.com/lanix7/DalamudPlugins/releases/download/v1.0.0/Duomafangchengzhan.zip",
-    "DownloadLinkTesting": "https://github.com/lanix7/DalamudPlugins/releases/download/v1.0.0/Duomafangchengzhan.zip",
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "CanUnloadAsync": false,
-    "LoadPriority": 0,
-    "IconUrl": ""
-  }
-]
