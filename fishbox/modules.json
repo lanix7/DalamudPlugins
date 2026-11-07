@@ -1,24 +1,14 @@
 {
   "modules": [
     {
-      "id": "sleep",
-      "name": "睡觉",
+      "id": "sleepanywhere",
+      "name": "随地大小睡",
       "author": "lanix",
-      "description": "让角色在任意位置躺下睡觉。",
+      "description": "睡觉与坐下两个动作合一，在任意位置躺下或坐上。",
       "tag": "动作",
       "version": "0.1.0.0",
-      "url": "https://github.com/lanix7/DalamudPlugins/releases/download/fishbox-modules-v1/FishBox.Module.Sleep.dll",
-      "file": "sleep/FishBox.Module.Sleep.dll"
-    },
-    {
-      "id": "sit",
-      "name": "坐下",
-      "author": "lanix",
-      "description": "让角色做出坐在椅子或床上的姿势。",
-      "tag": "动作",
-      "version": "0.1.0.0",
-      "url": "https://github.com/lanix7/DalamudPlugins/releases/download/fishbox-modules-v1/FishBox.Module.Sit.dll",
-      "file": "sit/FishBox.Module.Sit.dll"
+      "url": "https://github.com/lanix7/DalamudPlugins/releases/download/fishbox-modules-v2/FishBox.Module.SleepAnywhere.dll",
+      "file": "sleepanywhere/FishBox.Module.SleepAnywhere.dll"
     }
   ]
 }
