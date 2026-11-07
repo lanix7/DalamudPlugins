@@ -24,10 +24,10 @@
       "id": "umbrellaact",
       "name": "无实物表演（打伞）",
       "author": "lanix",
-      "description": "使用 /lanix 打伞 撑起看不见的伞",
+      "description": "使用 /lanix 打伞1、/lanix 打伞2、/lanix 打伞3 撑起三种看不见的伞",
       "tag": "动作",
-      "version": "0.1.0.0",
-      "url": "https://github.com/lanix7/DalamudPlugins/releases/download/fishbox-modules-v4/FishBox.Module.Umbrella.dll",
+      "version": "0.1.1.0",
+      "url": "https://github.com/lanix7/DalamudPlugins/releases/download/fishbox-modules-v5/FishBox.Module.Umbrella.dll",
       "file": "umbrella/FishBox.Module.Umbrella.v4.dll"
     }
   ]
