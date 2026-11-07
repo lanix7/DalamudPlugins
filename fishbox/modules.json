@@ -4,11 +4,11 @@
       "id": "sleepanywhere",
       "name": "随地大小睡",
       "author": "lanix",
-      "description": "允许你使用 /lanix 睡觉 和 /lanix 坐下 在任何地方睡大觉或坐下",
+      "description": "允许你使用 /lanix 睡觉、/lanix 坐下、/lanix 打伞 在任何地方做这些动作",
       "tag": "动作",
-      "version": "0.1.0.0",
-      "url": "https://github.com/lanix7/DalamudPlugins/releases/download/fishbox-modules-v2/FishBox.Module.SleepAnywhere.dll",
-      "file": "sleepanywhere/FishBox.Module.SleepAnywhere.dll"
+      "version": "0.2.0.0",
+      "url": "https://github.com/lanix7/DalamudPlugins/releases/download/fishbox-modules-v3/FishBox.Module.SleepAnywhere.dll",
+      "file": "sleepanywhere/FishBox.Module.SleepAnywhere.v3.dll"
     }
   ]
 }
