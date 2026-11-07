@@ -1,4 +1,4 @@
-{
+[{
     "Author":  "Siren, lanix",
     "Name":  "九宫幻卡",
     "Punchline":  "自动报名、选拔推荐、对局自动落子的全场景幻卡助手",
@@ -27,4 +27,4 @@
     "CanUnloadAsync":  false,
     "LoadPriority":  0,
     "IconUrl":  ""
-}
+}]
