@@ -2,8 +2,8 @@
     {
         "Author": "Siren, lanix",
         "Name": "九宫幻卡",
-        "Punchline": "自动报名、选拔推荐、对局自动落子的全场景幻卡助手",
-        "Description": "基于I佬自动锦标赛插件修改的幻卡插件\n修复窗口+修改为全场景幻卡+UI改动",
+        "Punchline": "适配 7.58",
+        "Description": "适配 7.58",
         "InternalName": "JiuGongHuanKa",
         "AssemblyVersion": "0.1.7.0",
         "TestingAssemblyVersion": null,
