@@ -23,5 +23,23 @@
         "CanUnloadAsync": false,
         "LoadPriority": 0,
         "IconUrl": ""
-    }
+    },
+  {
+    "Author": "Seventh，lanix（仅汉化）",
+    "Name": "Collections CN",
+    "Punchline": "在游戏内追踪、发现并管理你的全部收藏",
+    "Description": "Collections 提供一站式界面，用于追踪、发现和管理游戏内的各类收藏。\n集成投影系统（试穿、创建套装、投影模板）。\n支持：幻化、坐骑、宠物、情感动作、发型、九宫幻卡、青魔法师、陆行鸟装备、相框、管弦乐谱、套装、时尚配件、面部饰品。\n\n汉化版：界面全中文，支持隐藏不需要的分类页。",
+    "InternalName": "Collections",
+    "AssemblyVersion": "1.0.4.0",
+    "RepoUrl": "https://github.com/Seventhxiv/Collections",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "Tags": ["collections", "glamour", "mounts", "minions", "Utility", "Other"],
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LoadPriority": 0,
+    "IconUrl": "https://xivapi.com/img-misc/061643.png",
+    "DownloadLinkInstall": "https://github.com/lanix7/DalamudPlugins/releases/download/Collections-v1.0.4.0/Collections.zip",
+    "DownloadLinkUpdate": "https://github.com/lanix7/DalamudPlugins/releases/download/Collections-v1.0.4.0/Collections.zip"
+  }
 ]
